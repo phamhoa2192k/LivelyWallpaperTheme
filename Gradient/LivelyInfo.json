@@ -1,0 +1,14 @@
+{
+	"AppVersion": "0.0.1",
+	"Title": "Gradient",
+	"Thumbnail": "lively_t.jpg",
+	"Preview": "lively_p.gif",
+	"Desc": "Gradient.",
+	"Author": "Pham Hoa",
+	"License": null,
+	"Contact": "https://github.com",
+	"Type": 1,
+	"FileName": "index.html",
+	"Arguments": null,
+	"IsAbsolutePath": false
+  }
